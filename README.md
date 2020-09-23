@@ -1,2 +1,5 @@
 # Real-Time-Path-Planning-e-bot
-The e-bot which follows shortest path from starting to target nodes using Dijkstra Algorithm.
+Link to the video:
+https://youtu.be/kPa3lJgnUFc
+
+The e-bot follows the shortest path from a start node to target nodes using Dijkstra Algorithm. 
